@@ -2,6 +2,11 @@
 
 _Explore the optical character recognition capabilities of Azure AI Vision_
 
+# Na prática usando Azure Read text in Vision Studio
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=LinkedIn&logoColor=30A3DC)](https://www.linkedin.com/in/jacqueline-ribeiro-743876247/)
+
+
 ## Criar um recurso de serviços de _IA do Azure_
 
 Você pode usar os recursos de OCR do Azure AI Vision com um recurso multisserviço dos **serviços de IA do Azure**. Se você ainda não tiver feito isso, crie um recurso de **serviços de IA do Azure** em sua assinatura do Azure.
@@ -85,4 +90,10 @@ Em seguida, conecte o recurso de serviços de IA do Azure provisionado acima ao 
 
 
 
+# Referências:
+
+
+[Read text in Vision Studio](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/05-ocr.html)
+
+&nbsp;
 
