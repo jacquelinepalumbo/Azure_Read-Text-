@@ -37,3 +37,29 @@ Em seguida, conecte o recurso de serviços de IA do Azure provisionado acima ao 
 <img width="933" alt="image" src="https://github.com/jacquelinepalumbo/Azure_Detect-Faces/assets/119548193/e6e8a1e0-ff03-4986-b6e1-a79d09d57481">
 
 5. Feche a página de configurações selecionando o "x" no canto superior direito da tela.
+
+
+# Extrair texto de imagens no Vision Studio
+
+1. Em um navegador da Web, navegue até o **Vision Studio** em [https://portal.vision.cognitive.azure.com](https://portal.vision.cognitive.azure.com).
+
+2. Na página inicial **Introdução ao Vision**, selecione **Reconhecimento óptico de caracteres** e o bloco **Extrair texto de imagens**.
+
+3. No subtítulo **Experimentar**, reconheça a política de uso de recursos lendo e marcando a caixa.
+
+4. Selecione [https://aka.ms/mslearn-ocr-images](https://aka.ms/mslearn-ocr-images)para baixar **ocr-images.zip**. Em seguida, abra a pasta.
+
+5. No portal, selecione **Procurar um arquivo** e navegue até a pasta no computador em que você baixou **ocr-images.zip**. Selecione **advert.jpg** e selecione **Abrir**.
+
+6. Agora reveja o que é devolvido:
+   * Em **Atributos detectados**, qualquer texto encontrado na imagem é organizado em uma estrutura hierárquica de regiões, linhas e palavras.
+   * Na imagem, a localização do texto é indicada por uma caixa delimitadora, como mostrado aqui:
+  
+     <img width="608" alt="image" src="https://github.com/jacquelinepalumbo/Azure_Read-Text-/assets/119548193/f24a3156-d48e-44ce-b4ef-e23e310f0120">
+
+7. Agora você pode tentar outra imagem. Selecione **Procurar um arquivo** e navegue até a pasta onde você salvou os arquivos do GitHub. Selecione **letter.jpg**.
+
+<img width="592" alt="image" src="https://github.com/jacquelinepalumbo/Azure_Read-Text-/assets/119548193/36820b05-a999-4a03-9931-ace31937e308">
+
+
+8. Analise os resultados da segunda imagem. Ele deve retornar o texto e as caixas delimitadoras do texto. Se tiver tempo, tente **note.jpg** e **receipt.jpg**.
