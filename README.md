@@ -66,20 +66,20 @@ Em seguida, conecte o recurso de serviços de IA do Azure provisionado acima ao 
 8. Analise os resultados da segunda imagem. Ele deve retornar o texto e as caixas delimitadoras do texto. Se tiver tempo, tente **note.jpg** e **receipt.jpg**.
 
 
-   1.
+   
 
     <img width="745" alt="image" src="https://github.com/jacquelinepalumbo/Azure_Read-Text-/assets/119548193/748ece9d-c8ba-49d4-b200-c979c894d0bc">
    
-   2.
+   
    
    <img width="782" alt="image" src="https://github.com/jacquelinepalumbo/Azure_Read-Text-/assets/119548193/6515c0b5-3305-4c4e-9707-13ed31214a09">
    
-   3. 
+
 
    <img width="838" alt="image" src="https://github.com/jacquelinepalumbo/Azure_Read-Text-/assets/119548193/b3ca0b1b-af88-4c20-897f-8df41188d604">
    
 
-4. 
+
 
    <img width="796" alt="image" src="https://github.com/jacquelinepalumbo/Azure_Read-Text-/assets/119548193/7e563d78-c2e0-42ff-b9ed-ceca07249e10">
 
